@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://over40-beauty-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/over40-beauty-jp/sitemap.xml
